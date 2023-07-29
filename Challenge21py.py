@@ -1,0 +1,5 @@
+print("challenge 21")
+message = input("Enter your message: ")
+noSpace = message.strip()
+print (noSpace)
+print( "911 at " + str(noSpace.find("911")) + " index")

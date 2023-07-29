@@ -1,0 +1,5 @@
+print ("challenge 19")
+username = input ("Enter username: ")
+print(username.isalpha())
+password = input("Enter password: ")
+print(password.isdigit())
